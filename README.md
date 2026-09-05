@@ -6,7 +6,7 @@
 
 - A passionate developer from Colombia
 - Mastering Angular
-- 
+
 ## Tech Stack
 
 <div align="center">
